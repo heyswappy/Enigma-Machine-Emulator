@@ -1,0 +1,12 @@
+To Encrypt:
+  1. Enter 3 rotor names to be used as their numbers ideally ranging between 0 to 4.
+  2. Enter 3 offsets each corresponding to their respective rototrs.
+  3. Enter the string to be ciphered.
+  4. Note the ciphered string.
+
+
+To Decrypt:
+  1. Enter 3 rotor names to be used as their numbers ideally ranging between 0 to 4.
+  2. Enter 3 offsets each corresponding to their respective rototrs.
+  3. Enter the ciphered string to be deciphered.
+  4. You will see the deciphered data.
