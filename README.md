@@ -4,7 +4,7 @@ It is hardcoded with 5 rotors which the developer may change for more secure seq
 In addition to this each rotor can be programmed for its initial offset.
 
 # Complexities
-The main challenge behind the emulator is the fact that an actual enigma machine use a closed circuit path to ensure that when in ith state; if character c ciphers to character c' then it is guaranteed that character c' would have ciphered to character c.
+The main challenge behind the emulator is the fact that an actual enigma machine use a closed circuit path to ensure that when in ith state; if character c ciphers to character c' then it is guaranteed that character c' would have ciphered to character c. This is a little complicated in software as there is no physical entity.
 
 # NOTE
 The emulator does not supports plugboard yet. A minor complication for additional security.
